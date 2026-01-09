@@ -7,7 +7,7 @@ Users can browse mentors, book sessions, and communicate effectively to enhance 
 Live Demo : https://mentoring-alpha.vercel.app/ 
 
 ## Repository
-[GitHub - Mentor Hub](https://github.com/YourUsername/mentor-hub)  
+GitHub Repository - 
 
 ## Features
 
